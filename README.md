@@ -19,7 +19,7 @@ factors associated with employees leaving the organization.
 - Attrition Rate: 16.12%
 - Average Monthly Income: 6,502.93
 
-- ![HR Analytics Dashboard](visualizations/dashboard.png)
+- ![HR Analytics Dashboard(2)](visualizations/dashboard.png)
 
 ## Analysis Performed
 - Attrition by Department
